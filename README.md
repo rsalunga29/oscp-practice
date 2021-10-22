@@ -6,7 +6,7 @@ Personal checklist for OSCP-like machines used to practice before my OSCP exam.
 | Completed Date | Machine | OS | Point | Link |
 | --- | --- | --- | --- | --- |
 |  | Brainpan | Windows | 25 | https://tryhackme.com/room/brainpan |
-|  | Red Cross | Linux | 25 | https://www.hackthebox.eu/home/machines/profile/162 |
+| 10-23-2021 | Red Cross | Linux | 25 | https://www.hackthebox.eu/home/machines/profile/162 |
 |  | Ignite | Linux | 20 | https://tryhackme.com/room/ignite |
 |  | October | Linux | 20 | https://www.hackthebox.eu/home/machines/profile/15 |
 | 10-22-2021 | Blue | Windows | 10 | https://www.hackthebox.eu/home/machines/profile/51 |
